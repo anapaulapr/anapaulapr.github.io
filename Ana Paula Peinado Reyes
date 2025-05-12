@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Vida Saludable</title>
+</head>
+<body>
+
+  <h1>Vida Saludable</h1>
+
+  <h2>1. Alimentación Balanceada</h2>
+  <p>Comer frutas, verduras, proteínas y cereales integrales ayuda a tener energía y buena salud.</p>
+
+  <h2>2. Ejercicio Físico</h2>
+  <p>Hacer actividad física al menos 30 minutos al día fortalece el corazón y los músculos.</p>
+
+  <h2>3. Descanso Adecuado</h2>
+  <p>Dormir entre 7 y 9 horas cada noche es importante para que el cuerpo se recupere.</p>
+
+</body>
+</html>
