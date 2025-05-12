@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Vida Saludable</title>
+</head>
+<body>
+  <h1>Bienvenido a Vida Saludable</h1>
+  <p>Elige un subtema para aprender más:</p>
+
+  <ul>
+    <li><a href="alimentacion.html">Alimentación Balanceada</a></li>
+    <li><a href="ejercicio.html">Ejercicio Físico</a></li>
+    <li><a href="descanso.html">Descanso Adecuado</a></li>
+  </ul>
+</body>
+</html>
