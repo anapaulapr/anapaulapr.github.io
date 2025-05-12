@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ejercicio Físico</title>
+</head>
+<body>
+  <h1>Ejercicio Físico</h1>
+  <p>Hacer ejercicio diariamente mejora la salud física y mental.</p>
+  <a href="index.html">← Volver al inicio</a>
+</body>
+</html>
